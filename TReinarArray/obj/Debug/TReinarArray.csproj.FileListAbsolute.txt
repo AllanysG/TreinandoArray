@@ -1,0 +1,7 @@
+C:\Users\allanys.gasparotto\source\repos\TReinarArray\TReinarArray\bin\Debug\TReinarArray.exe.config
+C:\Users\allanys.gasparotto\source\repos\TReinarArray\TReinarArray\bin\Debug\TReinarArray.exe
+C:\Users\allanys.gasparotto\source\repos\TReinarArray\TReinarArray\bin\Debug\TReinarArray.pdb
+C:\Users\allanys.gasparotto\source\repos\TReinarArray\TReinarArray\obj\Debug\TReinarArray.csprojAssemblyReference.cache
+C:\Users\allanys.gasparotto\source\repos\TReinarArray\TReinarArray\obj\Debug\TReinarArray.csproj.CoreCompileInputs.cache
+C:\Users\allanys.gasparotto\source\repos\TReinarArray\TReinarArray\obj\Debug\TReinarArray.exe
+C:\Users\allanys.gasparotto\source\repos\TReinarArray\TReinarArray\obj\Debug\TReinarArray.pdb
